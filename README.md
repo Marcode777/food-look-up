@@ -127,3 +127,4 @@ git push heroku master
 ```
 
 Heroku will give you a link at which to view your live app.
+# food-look-up
