@@ -118,7 +118,8 @@
 
 // Let's boot both servers:
 
-// $ npm start
+// $ npm start  ***** my own note thanks to an update, the command should be, npm run dev, instead of start, when booting the server from the branch*****
+// ***** also, for launching to heroku, make sure you are in the top-level directory (in this case food-lookup-demo), and then make sure you are on master branch, then heroku create whatevernameofapp and then, add ., commit whatevermessage, and finally, git push heroku master *****
 // We're in business!
 
 
